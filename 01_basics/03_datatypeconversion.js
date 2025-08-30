@@ -23,5 +23,27 @@
 
 let somenumber =33
 let string =String(somenumber)
-console.log(string);
-console.log(typeof string)
+// console.log(string);
+// console.log(typeof string)
+
+
+
+// console.log(2**3);//power
+// console.log(2%3)//modulus
+
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+2)
+// console.log(1+2+"2");
+
+
+
+// console.log(true+)//error
+// console.log(+true) //1
+// console.log(+"")//0
+
+
+let gamecounter =100;
+++gamecounter;//gamecounter++//prefix or postfix
+console.log(gamecounter);
+
